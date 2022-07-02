@@ -1,7 +1,8 @@
 # nft-marketplace-app
   
-image.png
+
 This is a basic NFT marketplace application created as a proof of concept using the Moralis boiler plate code. 
+![image](https://user-images.githubusercontent.com/60826537/177005452-cc018975-e00a-463f-b5dd-03bb1ee26b95.png)
 
 # Actions this application supports:
 Buy and sell NFTs on Polygon Mumbai testnet.
